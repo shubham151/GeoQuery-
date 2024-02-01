@@ -1,4 +1,4 @@
-# **GeoQuery+ (U-ASK: Enhanced Spatial-Keyword Query Processing)
+# GeoQueryPlus (U-ASK: Enhanced Spatial-Keyword Query Processing)
 
 U-ASK is a unified indexing and query processing system designed for kNN spatial-keyword queries that support negative keyword predicates, as presented in ACM SIGSPATIAL 2022. This project aims to extend U-ASK to handle various types of spatial-keyword queries.
 
